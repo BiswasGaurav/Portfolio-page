@@ -1,0 +1,40 @@
+.about-content {
+    background-color: rgba(0 , 0 , 0 , 0.5);
+}
+
+.starting {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #FAFFAF;
+}
+
+.wrapper {
+    transform: translateY(-300px);
+}
+
+.initials {
+    padding: 10px 150px;
+}
+
+.details {
+    padding: 10px 150px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+}
+
+.box p {
+    padding-bottom: 30px;
+}
+
+.gaurav {
+    padding-left : 150px ;
+    color:#FAFFAF ; 
+    padding-top : 50px ;
+}
+
+
+.icons {
+    display: flex;
+}
