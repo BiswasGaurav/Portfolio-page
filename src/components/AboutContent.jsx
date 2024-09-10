@@ -48,7 +48,7 @@ const AboutContent = () => {
 
           <div className="Tech">
             <h1 style={{paddingTop:'50px', color:'#FAFFAF'}}>Technological Capabilites</h1>
-            <p style={{letterSpacing:"2px"}}>I have decent knowledge in HTML , CSS , JS , Jquery , bootrap , react , tailwind css , mongodb , node js , express js , C , C++ , python and some full stack framework like nextjs Some OS tools like git , Git-hub and VS-code. </p>
+            <p style={{letterSpacing:"2px"}}>I have decent knowledge in HTML , CSS , JS , Jquery , bootstrap , react , tailwind css , mongodb , node js , express js , C , C++ , python and some full stack framework like nextjs Some OS tools like git , Git-hub and VS-code. </p>
           </div>
 
         </div>
